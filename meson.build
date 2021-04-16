@@ -65,4 +65,4 @@ endif
 subdir('data')
 subdir('plugins/gnome-builder')
 subdir('src')
-subdir('test')
+subdir('tests')
